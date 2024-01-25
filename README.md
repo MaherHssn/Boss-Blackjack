@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Boss Blackjack
+a plugin that allows you to play blackjack against bosses
